@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Filimo</string>
+    <string name="featured_video">ویدیوهای ویژه</string>
+    <string name="latest_movies">جدیدترین فیلم ها</string>
+    <string name="random_movies">به انتخاب شما</string>
+    <string name="network_error">خطای دسترسی به اینترنت</string>
+
+    <!-- string for showing the text "Forgot your login details-->
+    <string name="forgot"><font color='c4c4c4'>Forgot your login details? </font><b>Get help logging in.</b></string>
+
+    <!-- string to show the text " Dont have an account-->
+    <string name="sign_up"><font color='c4c4c4'>Dont have an account? </font><b>Sign up.</b></string>
+    <string name="english_india">English (India)</string>
+    <string name="email_or_username">email or username</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="or">OR</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="login_required">برای ثبت نظر حتما باید وارد شوید</string>
+    <string name="login_comment_required">برای ثبت نظر حتما باید متن را وارد کنید</string>
+    <string name="error_in_sending_comment">خطا در ارسال نظر</string>
+    <string name="success_sending_comment">نظر با موفقیت ارسال شد</string>
+
+</resources>
